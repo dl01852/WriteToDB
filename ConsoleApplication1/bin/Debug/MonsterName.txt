@@ -1,0 +1,42 @@
+Bandit,Bandit
+Bandit Thug,Bandit
+Bandit Plunderer,Bandit
+Bandit Marauder,Bandit
+Bandit Leader,Bandit
+Demon Mage,Demon
+Demon Soldier,Demon
+Demon Warrior,Demon
+Demon Elite,Demon
+Dragon,Dragon
+Blood Dragon,Dragon
+Frost Dragon,Dragon
+Ancient Dragon,Dragon
+Legendary Dragon,Dragon
+Goblin,Goblin
+Ghoul,Ghoul
+Devourer,Devourer
+Bear,Bear
+Werewolf,Werewolf
+Wraith,Wraith
+Harpy,Harpy
+Warg,Warg
+Apprentice Mage,Mage
+Mage,Mage
+Expert Mage,Mage
+Master Mage,Mage
+Vampire,Vampire
+Soul Ripper,Soul Ripper
+Bone Breaker,Bone Breaker
+Khzra,Khazra
+Khzra Brute,Khzra
+Khzra Impaler,Khzra
+Khzra Mauler,Khzra
+Khzra Shaman,Khzra
+Spider,Spider
+Reaver,Reaver
+Gargoyle,Gargoyle
+Golem,Golem
+Fire Elemental,Fire Elemental
+Beserker,Beserker
+Nighstalker,Nightstalker
+Wolf,Wolf

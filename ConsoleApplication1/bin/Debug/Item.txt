@@ -1,0 +1,75 @@
+11001,Clothes,2,Equipment
+11002,Padded Armor,179,Equipment
+11003,Leather Armor,539,Equipment
+11004,Studded Leather Armor,989,Equipment
+11005,Scale Mail,2249,ETC
+11006,Chain Mail,4499,ETC
+11007,Half Plate Mail,7199,ETC
+11008,Full Plate Mail,11249,ETC
+11009,Cloth Boots,1,Equipment
+11010,Leather Boots,134,Equipment
+11011,Studded Leather Boots,292,Equipment
+11012,Scale Boots,652,Equipment
+11013,Chain Boots,1349,Equipment
+11014,Half Plate Boots,1574,Equipment
+11015,Full Plate Boots,1484,Equipment
+11016,Cloth Bracers,1,Equipment
+11017,Padded Cloves,49,Equipment
+11018,Leather Gloves,157,Equipment
+11019,Studded Leather GLoves,292,Equipment
+11020,Scale Gloves,607,Equipment
+11021,Chain Gloves,1349,Equipment
+11022,Half Plate Gloves,1664,Equipment
+11023,Full Plate Gloves,1709,Equipment
+11024,Padded Helmet,53,Equipment
+11025,Leather Helmet,157,Equipment
+11026,Studded Leather Helmet,292,Equipment
+11027,Scale Helmet,652,Equipment
+11028,Chain Boots,1349,Equipment
+11029,Half Plate Boots,1484,Equipment
+11030,Full Plate Boots,1552,Equipment
+11031,Wood Shield,35,Equipment
+11032,Iron Shield,261,Equipment
+11033,Dagger,50,Equipment
+11034,Short Sword,92,Equipment
+11035,Long Sword,194,Equipment
+11036,Scimitar,333,Equipment
+11037,Hand Axe,92,Equipment
+11038,Light Mace,92,Equipment
+11039,Morning Star,832,Equipment
+11040,Club,59,Equipment
+11041,Bastard Sword,878,Equipment
+11042,Great Sword,1390,Equipment
+11043,Battle Axe,307,Equipment
+11044,Great Axe,1064,Equipment
+11045,Halberd,1122,Equipment
+11046,Spear,131,Equipment
+11047,War Hammer,88,Equipment
+11048,Staff,177,Equipment
+11049,Shortbow,234,Equipment
+11050,Arrows,20,Equipment
+11051,Lesser Healing Potion,8,Consumable
+11052,Healing Potion,28,Consumable
+11053,Extra Healing Potion,84,Consumable
+11054,Lesser Rejuvenation Potion,8,Consumable
+11055,Rejuvenation Potion,28,Consumable
+11056,Extra Rejuvenation Potion,84,Consumable
+11057,Book,4,ETC
+11058,Bear Hide,53,ETC
+11059,Candle,2,ETC
+11060,Chain,2,ETC
+11061,Deer Hide,30,ETC
+11062,Doll,4,ETC
+11063,Fishing Net,6,ETC
+11064,Fishing Rod,5,ETC
+11065,Goblet,1,ETC
+11066,Gold Ring,134,Equipment
+11067,Vial,2,ETC
+11068,Rope,2,ETC
+11069,Blunt Axe,50,Equipment
+11070,Pearl Necklace,288,Equipment
+11071,Leather,25,ETC
+11072,Nails,5,ETC
+11073,Oil,4,ETC
+11074,Wire,2,ETC
+11075,String,1,ETC
